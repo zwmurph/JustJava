@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="chocOpt">Chocolat</string>
+    <string name="chocolate">Chocolat? - <xliff:g example="Yes" id="choice">%s</xliff:g></string>
+    <string name="choiceNo">Non</string>
+    <string name="choiceYes">Oui</string>
+    <string name="cream">Crème fouettée? - <xliff:g example="Yes" id="choice">%s</xliff:g></string>
+    <string name="errorText">Entrez un nom</string>
+    <string name="nameEntry">Prénom</string>
+    <string name="noOrderText">Rien à commander?</string>
+    <string name="orderButton">Commande</string>
+    <string name="orderSummaryHeader">Récapitulatif de la commande</string>
+    <string name="orderSummaryName">Prénom: <xliff:g example="Zac" id="userName">%s</xliff:g></string>
+    <string name="orderSummaryNoName">Prénom: </string>
+    <string name="orderSummaryText">Total: 1,95 €</string>
+    <string name="processingOrder">Commande en traitement</string>
+    <string name="quantityHeader">Quantité</string>
+    <string name="quantity">Quantité: <xliff:g example="1" id="quantity">%1$d</xliff:g></string>
+    <string name="thankYouMessage">Merci de votre commande!</string>
+    <string name="toppingsHeader">Garnitures</string>
+    <string name="whippCreamOpt">Crème fouettée</string>
+    <string name="total">Total: <xliff:g example="£1.95" id="total">%s</xliff:g></string>
+</resources>

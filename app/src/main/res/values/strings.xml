@@ -1,0 +1,27 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+    //activity_main.xml
+    <string name="nameEntry">Name</string>
+    <string name="toppingsHeader">Toppings</string>
+    <string name="whippCreamOpt">Whipped Cream</string>
+    <string name="chocOpt">Chocolate</string>
+    <string name="quantityHeader">Quantity</string>
+    <string name="orderSummaryHeader">Order Summary</string>
+    <string name="orderSummaryText">Total: £1.95</string>
+    <string name="orderButton">Order</string>
+
+    //MainActivity.java
+    <string name="errorText">Enter a name</string>
+    <string name="orderSummaryNoName">Name: </string>
+    <string name="orderSummaryName">Name: <xliff:g example="Zac" id="userName">%s</xliff:g></string>
+    <string name="quantity">Quantity: <xliff:g example="1" id="quantity">%1$d</xliff:g></string>
+    <string name="cream">Whipped cream? - <xliff:g example="Yes" id="choice">%s</xliff:g></string>
+    <string name="chocolate">Chocolate? - <xliff:g example="Yes" id="choice">%s</xliff:g></string>
+    <string name="choiceYes">Yes</string>
+    <string name="choiceNo">No</string>
+    <string name="total">Total: <xliff:g example="£1.95" id="total">%s</xliff:g></string>
+    <string name="noOrderText">Nothing to order?</string>
+    <string name="thankYouMessage">Thank you for your order!</string>
+    <string name="processingOrder">Processing Order</string>
+</resources>
